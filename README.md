@@ -32,7 +32,7 @@ Encoded the target variable and scaled the independent variable using label enco
 
 **MODEL BUILDING, EVALUATION AND IMPROVEMENT:**
 
-Used k neirest neighbour algorithm to detect the patient condition and evaluate metrix using confusion metrix, accuracy score, recall score, precision score and f1 score. Further tunned the model using GridsearchCV and increased the accuracy of the model by almost ~2%.
+Used k neirest neighbour algorithm to detect the patient condition and evaluate the model using confusion metrix, accuracy score, recall score, precision score and f1 score. Further tunned the model using GridsearchCV and increased the accuracy of the model by almost ~2%.
 
 **MODEL DEPLOYMENT:**
 
